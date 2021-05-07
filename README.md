@@ -1,2 +1,2 @@
 # gmsh
-Python/gmsh scripts &amp; data for dogbone's structured meshes
+Python/gmsh scripts for a parametrized dogbone structured mesh
